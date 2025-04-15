@@ -22,10 +22,10 @@ This project analyzes historical weather data from across the USA to uncover pat
 ## Visualizations
 
 **Temperature vs. Precipitation (USA Overview)**  
-![General Analysis]()
+![General Analysis](./assets/usa.png)
 
 **Comparative State Analysis (Alaska, California, Texas)**  
-![State Comparison]()
+![State Comparison](./assets/states.png)
 
 ## Tech Stack
 
