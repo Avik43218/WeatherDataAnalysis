@@ -47,14 +47,16 @@ pip install matplotlib numpy mysql.connector
 ```
 Ensure that your MySQL database is properly configured and populated before running the scripts.
 
+---
+
 ## How to Run
 
 From the root directory of the project:
 
 ```bash
-python src/analysis.py
-python src/state_analysis.py
-python src/piechart.py
+python src/Analysis.py
+python src/State_Analysis.py
+python src/PieChart.py
 ```
 
 ---
