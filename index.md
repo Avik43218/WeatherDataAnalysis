@@ -21,8 +21,10 @@ layout: default
 ## Screenshots
 
 <img src="assets/usa.png" width="600" alt="Temperature vs Precipitation">
-<br><br>
+<br /><br />
 <img src="assets/states.png" width="600" alt="State Comparison">
+<br /><br />
+<img src="assets/temperature.png" width="600" alt="Maximum Temperature vs Minimum Temperature">
 
 ---
 
