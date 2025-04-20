@@ -27,6 +27,9 @@ This project analyzes historical weather data from across the USA to uncover pat
 **Comparative State Analysis (Alaska, California, Texas)**  
 ![State Comparison](./assets/states.png)
 
+**Maximum Temperature vs Minimum Temperature**
+![Temperature](./assets/temperature.png)
+
 ## Tech Stack
 
 - **Language:** Python
